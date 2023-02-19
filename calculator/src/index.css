@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  background-color: #e5e5f7;
+  opacity: 1;
+  background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #EAEAF8 10px ), repeating-linear-gradient( #ffffff55, #ffffff );
+}
+
+
+
+.calcBody{
+  height: 100vw;
+  width: 100vw;
+
+}
+
+h1{
+  font-size: 30px;
+  font-weight: 600;
+  padding-left: 1.25rem;
+  
+}
+
+button:active{
+  background-color: lightgray;
+}
+
+.equals {
+  background-color: rgb(203, 206, 211);
+}
+
+.clearAll{
+  background-color: rgb(246, 175, 175);
+}
+
+.deleteOne{
+  background-color: rgb(246, 212, 150);
+}
+
+p{
+font-size: 25px;
+padding-left: 4rem;
+font-weight: 500;
+}
+
+.button{
+  padding-left: 2rem;
+  padding-bottom: 2rem;
+}
+
+button{
+  
+  height: 50px;
+  width: 50px;
+  font-weight: 400;
+  font-size: 20px;
+  border-radius: 5px;
+}
