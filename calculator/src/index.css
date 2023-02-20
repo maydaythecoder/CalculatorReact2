@@ -48,20 +48,24 @@ button:active{
 }
 
 p{
+  z-index: 2;
 font-size: 25px;
-padding-left: 4rem;
+padding-left: 30%;
+padding-right: 30%;
 font-weight: 500;
 border: black, solid, 5px;
-margin-left: 33%;
+border-width: 100px;
+margin-left: 10%;
 margin-right: 10%;
 }
 
 .button{
   padding-left: 2rem;
   padding-bottom: 2rem;
-  margin-left: 33%;
+  margin-left: 16.5%;
   margin-right: 25%;
-  margin-top: 20%;
+  margin-top: 5%;
+  position: absolute;
 }
 
 button{
