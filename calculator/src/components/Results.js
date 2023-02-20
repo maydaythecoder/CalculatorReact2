@@ -7,7 +7,7 @@ class ResultsObj extends Component {
             <div className="result">
                 <p>{result}</p>
             </div>
-            
+
         );
     }
 }

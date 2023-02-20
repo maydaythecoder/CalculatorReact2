@@ -15,7 +15,10 @@ body {
 
 .calcBody{
   height: 100vw;
-  width: 100vw;
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+
 
 }
 
@@ -23,7 +26,9 @@ h1{
   font-size: 30px;
   font-weight: 600;
   padding-left: 1.25rem;
-  
+  margin-left: 33%;
+  margin-right: 10%;
+
 }
 
 button:active{
@@ -46,15 +51,20 @@ p{
 font-size: 25px;
 padding-left: 4rem;
 font-weight: 500;
+border: black, solid, 5px;
+margin-left: 33%;
+margin-right: 10%;
 }
 
 .button{
   padding-left: 2rem;
   padding-bottom: 2rem;
+  margin-left: 33%;
+  margin-right: 25%;
+  margin-top: 20%;
 }
 
 button{
-  
   height: 50px;
   width: 50px;
   font-weight: 400;
